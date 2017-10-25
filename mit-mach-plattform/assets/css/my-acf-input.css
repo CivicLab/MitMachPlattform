@@ -1,0 +1,22 @@
+.submission-input
+.input-row .acf-label{display:none;}
+.input-row .acf-input {
+   /* background:rgba(242, 242, 242, 0.6);*/
+    margin: 1em 0em;
+    font-size: 100% !important;
+    font-weight: 600;
+    color: #00171a !important;
+}
+.input-row .acf-field{
+    display:none;
+    padding:0px !important;
+   /* margin-top: .5em !important;*/
+    border-top: none !important; 
+    
+}
+.input-row .acf-field input[type="text"]{
+    font-size: 100% !important; 
+    padding: 0 .5em; 
+    height: 44px;
+    color: #00171a !important;
+}
