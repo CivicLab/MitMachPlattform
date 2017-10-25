@@ -2,7 +2,7 @@
 Auf dieser digitalen Plattform können sich einzelne Bürgerinnen und Bürger austauschen. Will man sich spontan zu Aktivitäten verabreden – ob im Bereich Freizeit, Stadtraumgestaltung, Willkommenskultur oder zur allgemeinen Verbesserung der Lebensqualität in der eigenen Nachbarschaft – die Planung gemeinsamer Aktionen, die Diskussion über bestimmte Themen, das Finden von Mitstreiter/innen für die eigene Idee oder die Terminierung des nächsten Treffens können über die Plattform abgewickelt werden. Die digitale Plattform ist im Projekt „Mit-Mach-Stadt Brandis: Bürgerbeteiligung von Übermorgen“ entstanden, dem gemeinsamen Projekt der Universität der Künste Berlin und der Stadt Brandis, gefördert vom Sächsischen Staatsministerium des Innern (SMI) im Rahmen der Initiative Innovationskommune Sachsen 2016/2017.
 
 ## Applikation
-Lightweight Community-App ohne Nutzer-Registrierungs und -Login.
+Lightweight Community-App ohne Nutzer-Registrierung und -Login.
 Bedarf also redaktioneller Beobachtung eines Wordpress-Redakteurs.
 
 Die Mit-Mach-Plattform intendiert schnelle Vernetzung von Interessensgemeinschaften.
@@ -27,8 +27,10 @@ Wordpress installieren - getestete Version ist 4.6.1 !
 4. Advanced Custom Fields Pro Plugin lizensieren und aktivieren
 
 5. Wordpress Importer ausführen (Menü->Werkzeuge->Daten importieren -> letzter Punkt Wordpress Importer ausführen)
+![](readme-pics/daten-importieren.png)
 
 6. Nun Theme aktivieren -> Mit-Mach-Plattform
+![](readme-pics/theme-aktivieren.png)
 
 Das wars!
 
