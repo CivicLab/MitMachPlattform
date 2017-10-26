@@ -26,7 +26,7 @@ Wordpress installieren - getestete Version ist 4.6.1 !
 
 4. Advanced Custom Fields Pro Plugin lizensieren und aktivieren
 
-5. Wordpress Importer ausführen (Menü->Werkzeuge->Daten importieren -> letzter Punkt Wordpress Importer ausführen)
+5. Wordpress Importer ausführen (Menü->Werkzeuge->Daten importieren -> letzter Punkt Wordpress Importer -> hier mit-mach-plattform.xml uploaden)
 
 ![](readme-pics/daten-importieren.png)
 
