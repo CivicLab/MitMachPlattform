@@ -34,6 +34,8 @@ Wordpress installieren - getestete Version ist 4.6.1 !
 
 ![](readme-pics/theme-aktivieren.png)
 
+7.) nun z.B. Beispielpost löschen und eigene Einträge machen. 
+
 Das wars!
 
 ## Beispiel
